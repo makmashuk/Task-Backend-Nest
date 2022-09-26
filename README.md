@@ -20,7 +20,7 @@ Rename the .env.example to .env
 ## Database CONFIG
 
 ```bash
-Check the "ormconfig.ts" file and modify if any local change
+Check the "src/ormconfig.ts" file and modify if any local change
 ```
 
 ## Running the app
